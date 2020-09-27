@@ -1,13 +1,13 @@
 
 <h1 align="center">
   <br>
-  // <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+   <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
   <br>
-  WELCOME TO MY GITHUB <br> PYTHON911
+   PYTHON911
   <br>
 </h1>
 
-<h4 align="center"> <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center"> Welcome to my GITHUB - This repo is index of all public projects.<a href="#" target="_blank">Website</a>.</h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
@@ -18,13 +18,13 @@
   <a href="https://saythanks.io/to/amitmerchant1990">
       <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
   </a>
-  <a href="https://www.paypal.me/AmitMerchant">
+  <a href="https://www.paypal.me/">
     <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
   </a>
 </p>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">INTRODUCTION</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
